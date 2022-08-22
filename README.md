@@ -1,6 +1,6 @@
 
 # Welcome :octocat:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidiwl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 “Sometimes you wake up. Sometimes the fall kills you. And sometimes, when you fall, you fly.”
