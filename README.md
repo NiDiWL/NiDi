@@ -13,5 +13,5 @@
  <p>3d Printer 🤖</p>
 
 ## GitHub Status
- ![nidi github stats](https://github-readme-stats.vercel.app/api?username=NiDiWL&show_icons=true&theme=nightowl)
+ ![nidi github stats](https://github-readme-stats.vercel.app/api?username=nidiwl&show_icons=true&theme=nightowl&count_private=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiDiWL&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
